@@ -1,0 +1,18 @@
+.header-container {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.trump-img {
+  height: 180px;
+  width: 180px;
+  margin-top: 2rem;
+}
+.header-container p {
+  font-weight: bold;
+  font-size: 30px;
+}
